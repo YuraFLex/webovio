@@ -229,10 +229,9 @@ body {
 
 .block3__message {
   display: flex;
-  justify-content: space-around;
   margin-top: 280px;
   align-items: center;
-  padding-left: 170px;
+  padding-left: 270px;
   padding-right: 85px;
   margin-bottom: 105px;
 }
